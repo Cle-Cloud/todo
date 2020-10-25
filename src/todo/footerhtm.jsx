@@ -10,7 +10,7 @@ export default{
   render(){
     return (
       <div style={this.divStyle}>
-        <span style={this.spanStyle}>Written by {this.author}</span>
+        <span style={this.spanStyle}>Written by {this.author}. Updated 2020.</span>
       </div>
     );
   }
