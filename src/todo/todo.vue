@@ -3,7 +3,7 @@
     <div class='content'>
       <input 
           type='text' 
-          placeholder="What want to do next..." 
+          placeholder="What do you want to do next..." 
           v-model="content" 
           @keyup.enter="addTodo" 
       />
