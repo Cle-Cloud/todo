@@ -53,7 +53,7 @@ const config = {
     }),
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
-      title: 'Todo'
+      title: 'Todo List'
     }),
     new VueLoaderPlugin()
   ],
